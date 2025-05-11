@@ -1,6 +1,12 @@
 items:
   - text: Home
     url: /
+
+
+```yaml
+items:
+  - text: Home
+    url: /
   - text: Products
     url: /products
   - text: About
@@ -9,3 +15,7 @@ items:
     url: /blog
   - text: Contact
     url: /contact
+  - text: Connexion
+    url: /connexion.html
+  - text: S'inscrire
+    url: /inscrire.html
